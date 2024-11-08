@@ -1,5 +1,6 @@
 ﻿public enum AudioSnapshots
 {
-    All,
-    Snapshot,
+    kanzenrikaiMixer_BaDrLowpass,
+    kanzenrikaiMixer_All,
+    NewAudioMixer_Snapshot,
 }
